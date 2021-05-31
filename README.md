@@ -13,3 +13,6 @@ test function will test the network output will be the loss value and accuracy
 
 in the end you will see the Graf about loss during the train and test 
 and the Accuracy value in each epoch we run 
+
+yoy can see the conv file that i build network 
+class name is Net using conv and fc method 
