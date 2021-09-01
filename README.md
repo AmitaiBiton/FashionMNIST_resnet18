@@ -1,5 +1,5 @@
 # FashionMNIST_resnet18
-#### using resnet18 to learning on MNIST data 
+#### Using resnet18 to learning on MNIST data 
  - 10 classes 
  - run the code will downloading the resnet18 network and the MNIST data.  
  - calaculate the loss by CrossEntropyLoss.  
